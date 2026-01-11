@@ -1,6 +1,6 @@
 # 🎲 Ana de Andrade
 
-**`Cientista de Dados`**
+**`Estudante de Sistemas de Informação`**
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
   </a>
 </div>
 
-Sou Ana Carolina, tenho 19 anos, sou Técnica em Administração formada pelo Instituto Federal de Minas Gerais(IFMG) e estou cursando Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP). Sou uma constante aprendiz, fascinada pelos estudos em Ciência de Dados.
+Sou Ana Carolina, tenho 19 anos, sou Técnica em Administração formada pelo Instituto Federal de Minas Gerais(IFMG) e estou cursando Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP). Sou uma constante aprendiz, fascinada pelos estudos em tecnologia.
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
