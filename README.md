@@ -8,7 +8,7 @@
   </a>
 </div>
 
-Sou Ana Carolina, tenho 19 anos, sou Técnica em Administração formada pelo Instituto Federal de Minas Gerais(IFMG) e estou cursando Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP). Sou uma constante aprendiz, fascinada pelos estudos em tecnologia.
+Sou Ana Carolina, tenho 20 anos, sou Técnica em Administração formada pelo Instituto Federal de Minas Gerais(IFMG) e estou cursando Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP). Sou uma constante aprendiz, fascinada pelos estudos em tecnologia.
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
